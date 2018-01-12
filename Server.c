@@ -11,7 +11,7 @@
 
 #define BUFFER 100000
 #define NAME 1000
-#define PORT 2242
+#define PORT 80
 
 extern int h_errno;
 
